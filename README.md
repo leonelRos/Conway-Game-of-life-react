@@ -1,6 +1,6 @@
 ## Conway's Game of Life 
 this game is to commerate Mr. Conways game
-[image](https://Screen Shot 2020-04-15 at 2.16.17 PM.png)
+![](https://github.com/leonelRos/Conway-Game-of-life-react/blob/master/public/Screen%20Shot%202020-04-15%20at%202.16.17%20PM.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
